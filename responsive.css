@@ -1,7 +1,7 @@
 @media (max-width: 840px) {
     .main {
         width: 80%;
-        float: left;
+        padding: 0;
     }
     .note {
         width: 100%;
