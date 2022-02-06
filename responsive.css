@@ -1,0 +1,15 @@
+@media (max-width: 840px) {
+    .main {
+        width: 80%;
+        float: left;
+    }
+    .note {
+        width: 100%;
+    }
+}
+
+@media (max-width : 480px) {
+    .nav, .main, .note {
+        width: 100%;
+    }
+}
